@@ -1,5 +1,7 @@
 # Gatsby + Netlify CMS Boilerplate
 
+This project is hosted on Netlify: http://tailor-carmen-66778.netlify.com/
+
 ## Adding Netlify CMS to Gatsby Project
 - Go to the admin directory
 ```
