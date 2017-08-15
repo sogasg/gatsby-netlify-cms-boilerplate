@@ -1,13 +1,9 @@
-# gatsby-starter-default
-The default Gatsby starter
+# Gatsby + Netlify CMS Boilerplate
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
+## Adding Netlify CMS to Gatsby Project
+- Follow the instructions here: [Netlify CMS Quick Start Guide](https://www.netlifycms.org/docs/quick-start/).
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-example-site
-```
-
-## Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+## To Dos
+- [ ] Use Webpack to copy admin directory so it isn't necessary to commit the entire public directory.
+- [ ] Setup the Netlify CMS to save/edit content as markdown files in the pages directory
+- [ ] Use GraphQL queries to build pages based off markdown pages with frontmatter
