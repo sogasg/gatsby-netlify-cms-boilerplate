@@ -1,0 +1,7 @@
+---
+path: "/welcome"
+date: "2017-08-03T17:12:33.962Z"
+title: "My First Blog Post"
+---
+
+This is my first blog post!

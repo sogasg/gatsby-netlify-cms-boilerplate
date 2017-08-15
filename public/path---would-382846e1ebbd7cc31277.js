@@ -1,0 +1,2 @@
+webpackJsonp([0x74ccceb7d0206800],{"./node_modules/json-loader/index.js!./.cache/json/would.json":function(o,t){o.exports={data:{markdownRemark:{html:"<p>this to work</p>",frontmatter:{date:"August 04, 2017",path:"/would",title:"lvoe for"}}},pathContext:{}}}});
+//# sourceMappingURL=path---would-382846e1ebbd7cc31277.js.map
