@@ -1,4 +1,5 @@
 ---
+layout: "blog"
 path: "/intro-to-graphql"
 date: "2017-08-08T17:12:33.962Z"
 title: "Introduction to GraphQL"

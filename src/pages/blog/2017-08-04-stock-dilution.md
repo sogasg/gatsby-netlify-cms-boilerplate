@@ -1,4 +1,5 @@
 ---
+layout: "blog"
 path: "/entry-two"
 date: "2017-08-04T17:12:33.962Z"
 title: "Stock dilution"
