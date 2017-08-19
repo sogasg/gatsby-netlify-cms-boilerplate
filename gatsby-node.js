@@ -1,5 +1,26 @@
 const path = require('path');
 
+// exports.modifyWebpackConfig = ({ config, stage }) => {
+//   // During develop and build stages, copy admin to public. Do it last.
+//   switch (stage) {
+//     case 'develop':
+//       config.loader('css', {
+//         include: /admin/,
+//       });
+//
+//       break;
+//
+//     case 'build-html':
+//       config.loader('css', {
+//         include: /admin/,
+//       });
+//
+//       break;
+//   }
+//
+//   return config;
+// };
+
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
 

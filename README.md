@@ -19,3 +19,4 @@ repo: [YOUR_USERNAME]/[YOUR_REPO] # Path to your Github repository
 - [ ] Use GraphQL queries to build pages based off markdown pages with frontmatter
 - [ ] Save frontmatter values as strings
 - [ ] Model content correctly
+- [ ] GraphQL needs the frontmatter fields as strings, but Netlify CMS wants them w/ no quotes
