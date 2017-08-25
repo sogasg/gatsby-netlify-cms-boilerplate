@@ -1,8 +1,8 @@
 ---
-layout: "blog"
-path: "/test-title-17"
-date: "2017-08-19T13:36:59.613Z"
-title: "Test Title"
+layout: blog
+path: /test-title-17
+date: '2017-08-19T13:36:59.613Z'
+title: Test Title
 ---
 An h2 header
 
@@ -22,3 +22,4 @@ As you probably guessed, indented 4 spaces. By the way, instead of
 indenting the block, you can use delimited blocks, if you like:
 
 Let's try this
+
