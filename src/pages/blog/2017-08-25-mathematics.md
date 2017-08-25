@@ -1,9 +1,10 @@
 ---
 layout: blog
 path: /math
-date: '2017-08-25T23:32:04.251Z'
+date: 2017-08-02T00:00:00-04:00
 title: Mathematics
 ---
 Fermat's last theorum
 
 ## Test 2
+
