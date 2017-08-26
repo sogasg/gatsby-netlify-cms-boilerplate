@@ -14,5 +14,6 @@ repo: [YOUR_USERNAME]/[YOUR_REPO] # Path to your Github repository
 - Follow these instructions ([Netlify CMS Quick Start Guide](https://www.netlifycms.org/docs/quick-start/)) for a custom setup.
 
 ## To Dos
-- [ ] Register a custom widget to save frontmatter values as strings
+- [ ] Register a custom widget to save frontmatter data values as strings
 - [ ] Netlify authentication
+- [ ] Images
