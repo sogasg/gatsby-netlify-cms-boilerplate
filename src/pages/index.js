@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'gatsby-link';
 import Helmet from 'react-helmet';
 import styled from 'styled-components';
+import download from '../img/download.jpeg';
 
 const KeepReading = styled.span`
   a {
@@ -29,6 +30,7 @@ export default function Index({ data }) {
                 {post.frontmatter.title}
               </Link>
             </h1>
+            <img src={download} alt="" />
             <h2>
               {post.frontmatter.date}
             </h2>
